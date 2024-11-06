@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-# Original author:M. Heidenreich
-# Name:Heli Patel
-
 
 from signal import signal, SIGTERM, SIGHUP, pause
 from threading import Thread
